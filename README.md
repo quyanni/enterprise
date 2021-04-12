@@ -25,9 +25,9 @@
 
 ## 图片示例
 
-![前端](https://raw.githubusercontent.com/a695979515/enterprise/master/src/main/webapp/attached/image/%E5%89%8D%E7%AB%AF.png)
+![前端](https://raw.githubusercontent.com/a695979515/enterprise/master/src/main/webapp/attached/image/indexImage/20210409165714.jpg)
 
-![后端首页](https://raw.githubusercontent.com/a695979515/enterprise/master/src/main/webapp/attached/image/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E4%B8%BB%E9%A1%B5.png)
+![后端首页](https://raw.githubusercontent.com/a695979515/enterprise/master/src/main/webapp/attached/image/20160612/login.jpg)
 
 ![滚动图管理](https://raw.githubusercontent.com/a695979515/enterprise/master/src/main/webapp/attached/image/%E6%BB%9A%E5%8A%A8%E5%9B%BE%E7%89%87%E7%AE%A1%E7%90%86.png)
 
