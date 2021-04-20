@@ -23,6 +23,12 @@
 
 * 后端地址：http://localhost:8080/manage/user/login
 
+
+* 启动图片找不到问题，需要在t_systemsetting里面修改www和imageRootPath路径为项目部署路径
+
+* 后端登陆账号是admin/123
+
+
 ## 图片示例
 
 ![前端](https://raw.githubusercontent.com/a695979515/enterprise/master/src/main/webapp/attached/image/indexImage/20210409165714.jpg)
